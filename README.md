@@ -37,3 +37,8 @@ pip install pandas
 pip install cryptography
 ```
 ## Configuración
+
+Ir a `config/dbp.py` y modificar la contraseña de mysql `contraseña` y el nombre de tu base de datos `basededatos` :
+```sh
+URL_DATABASE = 'mysql+pymysql://root:contraseña@localhost:3306/basededatos'
+```
