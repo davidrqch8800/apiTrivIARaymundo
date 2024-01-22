@@ -42,3 +42,9 @@ Ir a `config/dbp.py` y modificar la contraseña de mysql `contraseña` y el nomb
 ```sh
 URL_DATABASE = 'mysql+pymysql://root:contraseña@localhost:3306/basededatos'
 ```
+## Iniciar
+
+En `/apiTrivIARaymundo` ejecutar:
+```sh
+uvicorn main:app --reload
+```
