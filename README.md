@@ -3,7 +3,7 @@
 Para descargar, ejecuta:
 
 ```sh
-git clone https://github.com/davidrqch8800/api.git  
+git clone https://github.com/davidrqch8800/apiTrivIARaymundo.git  
 ```
 Una vez que esté descargado, debes crear un ambiente virtual con python dentro de la carpeta `/apiTrivIARaymundo`.
 
